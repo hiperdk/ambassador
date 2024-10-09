@@ -1,4 +1,4 @@
-# utility 🛠️
+# ambassador 🛠️
 
 [![ci](https://github.com/hiperdk/ambassador/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/hiperdk/ambassador/actions/workflows/main.yml)
 

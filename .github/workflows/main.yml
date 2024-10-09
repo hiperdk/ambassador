@@ -6,6 +6,11 @@ on:
   push:
     branches:
       - 'main'
+    paths:
+      - '.github/workflows/main.yml'
+      - 'Dockerfile'
+      - 'docker-bake.hcl'
+      - 'run.sh'
 env:
   REGISTRY: ghcr.io
   IMAGE_NAME: ${{ github.repository }}
